@@ -1,3 +1,5 @@
+![logo](https://github.com/EFxFLICK/EFxFLICK/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Abhishek Saini</h1>
 <h3 align="center">A passionate Data Analyst from Rajasthan, India</h3>
 
