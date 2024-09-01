@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Saini</h1>
 <h3 align="center">A passionate Data Analyst from Rajasthan, India</h3>
 
-<img align="right" alt="Data Analysing" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jKJLlgDfgaGkK6bbsVmDIwATL3pwSE5NDQ&s">
+<img align= "right"  alt="Data Analysing" height="200" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*vtLSZJpcGTK-iJ8T.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efxflick&label=Profile%20views&color=0e75b6&style=flat" alt="efxflick" /> </p>
 
