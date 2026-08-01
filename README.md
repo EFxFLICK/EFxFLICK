@@ -13,8 +13,8 @@ QA Engineer with 3 years of experience testing web and mobile applications, curr
 **Tools:** JIRA · Bugzilla · Jenkins · Git/GitHub · MySQL · PostgreSQL
 
 ## 📌 Featured Projects
-- **[Website QA Audit Tool]([link-to-repo](https://github.com/EFxFLICK/Website-QA-Audit-Tool))** — Asynchronous Python tool that crawls entire websites to detect broken links, images, JS/CSS errors, and mixed-content issues, generating classified HTML/CSV reports
-- **[Automated Smoke-Test Suite]([link-to-repo](https://github.com/EFxFLICK/Smoke-Test-Suite))** — Selenium-based deployment verification tool with automated login, page validation, and failure screenshot capture
+- **[Website QA Audit Tool]([https://github.com/EFxFLICK/Website-QA-Audit-Tool]))** — Asynchronous Python tool that crawls entire websites to detect broken links, images, JS/CSS errors, and mixed-content issues, generating classified HTML/CSV reports
+- **[Automated Smoke-Test Suite]([https://github.com/EFxFLICK/Smoke-Test-Suite])** — Selenium-based deployment verification tool with automated login, page validation, and failure screenshot capture
 
 ## 🌱 Currently learning
 Deepening my Python and Selenium fluency — moving from AI-assisted scripting toward independently writing and debugging automation code.
