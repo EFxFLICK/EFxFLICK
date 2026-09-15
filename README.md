@@ -19,21 +19,13 @@ I specialize in designing test automation frameworks from the ground up — UI, 
 
 ### 🚀 Featured Projects
 
-**[End-to-End QA Automation Framework – UI & API Testing](https://github.com/EFxFLICK/REPO-NAME-HERE)**
+**[End-to-End QA Automation Framework – UI & API Testing](https://github.com/EFxFLICK/playwright-ui-api-automation-framework)**
 Production-style UI + API automation framework built with Playwright, TypeScript, and Node.js against a live e-commerce demo app and its REST API. Covers positive/negative/boundary UI scenarios, full CRUD API validation, cross-browser/parallel execution, CI/CD via GitHub Actions, and Allure/Playwright HTML reporting.
 `Playwright` `TypeScript` `POM` `REST API` `GitHub Actions` `Allure`
 
 **[Banking QA Automation Framework](https://github.com/EFxFLICK/REPO-NAME-HERE)** *(In Progress)*
 Enterprise-style banking test automation framework extending into PostgreSQL database validation and financial transaction verification — validating the same transaction end-to-end across UI, API, and database layers, with security-oriented negative testing.
 `Playwright` `TypeScript` `PostgreSQL` `CI/CD` `Docker`
-
----
-
-### 📈 GitHub Stats
-
-<!-- These render automatically once pasted into your actual profile README -->
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=EFxFLICK&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EFxFLICK&layout=compact)
 
 ---
 
