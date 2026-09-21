@@ -25,7 +25,7 @@ Production-style UI + API automation framework built with Playwright, TypeScript
 
 **[Banking QA Automation Framework](https://github.com/EFxFLICK/Banking-QA-Automation)** 
 Enterprise-style banking test automation framework extending into PostgreSQL database validation and financial transaction verification — validating the same transaction end-to-end across UI, API, and database layers, with security-oriented negative testing.
-`Playwright` `TypeScript` `POM` `REST API` `GitHub Actions` `Allure` `PostgreSQL` `CI/CD` `Docker`
+`Playwright` `TypeScript` `POM` `REST API` `GitHub Actions` `Allure` `HSQLDB` `CI/CD` `Docker`
 
 ---
 
