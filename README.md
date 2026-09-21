@@ -23,9 +23,9 @@ I specialize in designing test automation frameworks from the ground up — UI, 
 Production-style UI + API automation framework built with Playwright, TypeScript, and Node.js against a live e-commerce demo app and its REST API. Covers positive/negative/boundary UI scenarios, full CRUD API validation, cross-browser/parallel execution, CI/CD via GitHub Actions, and Allure/Playwright HTML reporting.
 `Playwright` `TypeScript` `POM` `REST API` `GitHub Actions` `Allure`
 
-**[Banking QA Automation Framework](https://github.com/EFxFLICK/REPO-NAME-HERE)** *(In Progress)*
+**[Banking QA Automation Framework](https://github.com/EFxFLICK/Banking-QA-Automation)** 
 Enterprise-style banking test automation framework extending into PostgreSQL database validation and financial transaction verification — validating the same transaction end-to-end across UI, API, and database layers, with security-oriented negative testing.
-`Playwright` `TypeScript` `PostgreSQL` `CI/CD` `Docker`
+`Playwright` `TypeScript` `POM` `REST API` `GitHub Actions` `Allure` `PostgreSQL` `CI/CD` `Docker`
 
 ---
 
